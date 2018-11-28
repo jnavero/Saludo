@@ -1,4 +1,3 @@
-echo "Hola acciona"
-echo "Todo correcto"
-echo "Provoco un fallo"
-exit 1
+echo "ola k ase"
+echo " ... "
+exit 0
